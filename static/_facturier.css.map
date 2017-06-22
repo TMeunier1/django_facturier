@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "../home/tibau/Code/facturier-env/django_facturier/facturier/static/css/sass/_facturier.css",
+	"sources": [
+		"../home/tibau/Code/facturier-env/django_facturier/facturier/static/css/sass/_facturier.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAE,GAAG,GACxB"
+}
